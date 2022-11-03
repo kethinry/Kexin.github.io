@@ -1,0 +1,17 @@
+---
+title: "Kexin Wang's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+<style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  text-align: center;
+}
+</style>
+
